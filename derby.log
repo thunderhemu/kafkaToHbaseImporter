@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Oct 11 05:41:21 EDT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0166-6280-8432-00001037a7c8 
+on database directory C:\Users\KON1221\Desktop\kafkaToHbaseImporter\metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@35e8316e 
+Loaded from file:/C:/Users/KON1221/.m2/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_181-b13
+user.dir=C:\Users\KON1221\Desktop\kafkaToHbaseImporter
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
